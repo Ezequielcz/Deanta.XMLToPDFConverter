@@ -1,6 +1,6 @@
 📄 Deanta.XMLToPDFConverter
 
-<div align="center"> <img src="https://github.com/user-attachments/assets/4f4e231e-5110-4c4f-9bd2-c990008bc27f" alt="Deanta Trends Banner" width="800"/> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/4f4e231e-5110-4c4f-9bd2-c990008bc27f" alt="Deanta Trends Banner" width="1000"/> </div>
 
 A robust and modular XML-to-PDF processing system built with .NET. This solution consists of a Blazor Web front-end for file upload and PDF tracking, and a background processing engine powered by Hangfire for scalable and decoupled PDF generation.
 
