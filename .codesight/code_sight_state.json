@@ -1,0 +1,15 @@
+{
+  "LocalViewConfig": {
+    "ScanMode": "Auto",
+    "SelectedScanType": "Sigma",
+    "SelectedScanConfig": "",
+    "SelectedHistoricalScanConfig": "",
+    "LocalViewIssuesTablesColumns": {
+      "Polaris": [],
+      "Sigma": [],
+      "Coverity": [],
+      "BlackDuck": [],
+      "Unspecified": []
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "XMLToPDF.FileProcessor": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
