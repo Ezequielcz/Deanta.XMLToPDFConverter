@@ -1,4 +1,7 @@
-📄 Deanta.XMLToPDFConverter
+
+<h1 style="font-size: 2.5em; text-align: center; margin-top: 30px;">
+  📄 Deanta.XMLToPDFConverter
+</h1>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4f4e231e-5110-4c4f-9bd2-c990008bc27f" alt="Deanta Trends Cover" width="500"/>
